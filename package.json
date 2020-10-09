@@ -1,0 +1,33 @@
+{
+    "name": "node-auth-registration-for-flutter",
+    "version": "1.0.0",
+    "description": "Node",
+    "license": "MIT",
+    "author": {
+        "name": "Christopher Natan",
+        "email": "chris.natan@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cmnworks/node-auth-registration-for-flutter"
+    },
+    "scripts": {
+        "start": "node ./api.js",
+        "start:dev": "nodemon ./api.js"
+    },
+    "dependencies": {
+        "mysql2": "^2.1.0",
+        "rootpath": "^0.1.2",
+        "sequelize": "^6.3.4",
+        "express-jwt": "^6.0.0",
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "bcryptjs": "^2.4.3",
+        "joi": "^17.2.0",
+        "jsonwebtoken": "^8.5.1",
+        "body-parser": "^1.19.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.4"
+    }
+}

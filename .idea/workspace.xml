@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b3e058e5-714c-4d14-80b8-8d102299a1ad" name="Default Changelist" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1id5bZbtXvV74nsiaszqhFCzeJf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="D:\Program Files\WebStorm\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Chris\Desktop\Cmnworks\projects\cmnworks\user\api\services" />
+      <recent name="C:\Users\Chris\Desktop\Cmnworks\projects\cmnworks\user\api\models" />
+      <recent name="C:\Users\Chris\Desktop\Cmnworks\projects\cmnworks\user\api\controllers" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3e058e5-714c-4d14-80b8-8d102299a1ad" name="Default Changelist" comment="" />
+      <created>1602224700719</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602224700719</updated>
+      <workItem from="1602224701862" duration="13373000" />
+      <workItem from="1602264900620" duration="2251000" />
+      <workItem from="1602284533898" duration="703000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1602284721522</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602284721522</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Deployment" timestamp="1602246626343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Deployment/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1602246626343" />
+    <state x="637" y="201" key="#Options" timestamp="1602227150261">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="637" y="201" key="#Options/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1602227150261" />
+    <state x="536" y="165" key="#SSH_Configurations" timestamp="1602227088733">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="536" y="165" key="#SSH_Configurations/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1602227088733" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1602285215073">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1602285215073" />
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2" timestamp="1602284737456">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1602284737456" />
+    <state x="911" y="117" width="585" height="801" key="find.popup" timestamp="1602265539042">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="911" y="117" width="585" height="801" key="find.popup/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1602265539042" />
+    <state x="818" y="250" key="ftp.server.browser" timestamp="1602246607063">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="818" y="250" key="ftp.server.browser/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1602246607063" />
+    <state x="748" y="421" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602285192447">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="748" y="421" key="git4idea.remote.GitConfigureRemotesDialog/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1602285192447" />
+    <state x="659" y="414" key="git4idea.ui.GitResetDialog" timestamp="1602285088277">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="659" y="414" key="git4idea.ui.GitResetDialog/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1602285088277" />
+  </component>
+</project>
