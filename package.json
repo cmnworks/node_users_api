@@ -9,7 +9,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/cmnworks/node-auth-registration-for-flutter"
+        "url": "https://github.com/cmnworks/node_users_api"
     },
     "scripts": {
         "start": "node ./api.js",
