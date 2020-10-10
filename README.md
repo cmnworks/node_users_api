@@ -1,4 +1,17 @@
 # Node Users API
 
-Beautiful Flutter Login and Registration Page with REST Api Authentication Using Node and MySQL Database.
-The main presentation of this mini app is to implement MVC in order to separate the UI from the business logic and the data that is used.
+Node.js and Express API for Flutter Authentication and Registration, using database MySQL 
+
+## Node Users API
+    1. You need to install Node.js and npm in https://nodejs.org/en/download/
+    2. Install mySQL database server
+    3. Clone the project https://github.com/cmnworks/node_users_api.git
+    4. Run "npm install" from the console in the project root folder
+    5. Then start the Node Users API by typing "npm start" from the console in the project root folder.
+    6. Is it running now? You should see the message Server listening on port 8000. 
+  
+## Flutter Auth and Registration page  
+
+Clone or download the Authentication and Registration page [Flutter Users](https://github.com/cmnworks/flutter_users)
+    
+I
