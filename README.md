@@ -13,5 +13,3 @@ Node.js and Express API for Flutter Authentication and Registration, using datab
 ## Flutter Auth and Registration page  
 
 Clone or download the Authentication and Registration page [Flutter Users](https://github.com/cmnworks/flutter_users)
-    
-I
