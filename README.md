@@ -1,11 +1,11 @@
-# Node Users API
+# Nodejs Users API
 
-Node.js and Express API for Flutter Authentication and Registration, using database MySQL 
+Nodejs and Express API for Flutter Authentication and Registration, using database MySQL 
 
 ## Node Users API
     1. You need to install Node.js and npm in https://nodejs.org/en/download/
     2. Install mySQL database server
-    3. Clone the project https://github.com/cmnworks/node_users_api.git
+    3. Clone the project https://github.com/cmnworks/nodejs_users_api.git
     4. Run "npm install" from the console in the project root folder
     5. Then start the Node Users API by typing "npm start" from the console in the project root folder.
     6. Is it running now? You should see the message Server listening on port 8000. 
