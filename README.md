@@ -1,6 +1,6 @@
 # Nodejs Users API
 
-Nodejs and Express API for Flutter Authentication and Registration, using database MySQL 
+Nodejs and Express API for Flutter Authentication and Registration, using MySQL database
 
 ## Guide
     1. You need to install Node.js and npm in https://nodejs.org/en/download/
