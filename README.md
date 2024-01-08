@@ -3,7 +3,7 @@
 Nodejs and Express API for Flutter Authentication and Registration, using MySQL database
 
 ## Guide
-    1. You need to install Node.js and npm in https://nodejs.org/en/download/
+    1. You need to install Node.js and npm from https://nodejs.org/en/download/
     2. Install mySQL database server
     3. Clone the project https://github.com/cmnworks/nodejs_users_api.git
     4. Run "npm install" from the console in the project root folder
